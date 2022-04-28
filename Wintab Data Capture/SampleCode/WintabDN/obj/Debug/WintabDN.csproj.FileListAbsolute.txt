@@ -1,0 +1,6 @@
+C:\Users\Justin Go\Documents\School Files\4th Year 3T\Capstone\Software\Wintab .NET\SampleCode\WintabDN\bin\Debug\WintabDN.dll
+C:\Users\Justin Go\Documents\School Files\4th Year 3T\Capstone\Software\Wintab .NET\SampleCode\WintabDN\bin\Debug\WintabDN.pdb
+C:\Users\Justin Go\Documents\School Files\4th Year 3T\Capstone\Software\Wintab .NET\SampleCode\WintabDN\obj\Debug\WintabDN.csproj.AssemblyReference.cache
+C:\Users\Justin Go\Documents\School Files\4th Year 3T\Capstone\Software\Wintab .NET\SampleCode\WintabDN\obj\Debug\WintabDN.csproj.CoreCompileInputs.cache
+C:\Users\Justin Go\Documents\School Files\4th Year 3T\Capstone\Software\Wintab .NET\SampleCode\WintabDN\obj\Debug\WintabDN.dll
+C:\Users\Justin Go\Documents\School Files\4th Year 3T\Capstone\Software\Wintab .NET\SampleCode\WintabDN\obj\Debug\WintabDN.pdb
